@@ -16,8 +16,8 @@
  */
 define("DB_SERVER", "localhost");
 define("DB_USER", "root");
-define("DB_PASS", "y2k72in1");
-define("DB_NAME", "projects");
+define("DB_PASS", "");
+define("DB_NAME", "data2");
 
 /**
  * Database Table Constants - these constants
